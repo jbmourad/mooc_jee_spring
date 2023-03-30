@@ -8,6 +8,7 @@ import java.util.Map.Entry;
 
 public class Bag {
 	
+	
 	protected Map<String, Integer> entries = new HashMap<>();
 	
 	protected void added( String reference, int quantity ) {}
